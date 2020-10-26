@@ -1,0 +1,25 @@
+
+body {
+  font-family: sans-serif;
+  font-size: 22px;
+  margin: 30px;
+  background-color: #eee;
+  line-height: 1.7;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.number-spinner {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: white;
+  user-select: none;
+}
+
+.number-spinner:hover {
+  border: 2px solid black;
+  padding: 4px;
+}
