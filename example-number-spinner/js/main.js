@@ -1,3 +1,5 @@
+
+
 $('.number-spinner').mousedown(function(e) {
 
   // 1. Beim Drücken der Maustaste -> Koordinaten merken
