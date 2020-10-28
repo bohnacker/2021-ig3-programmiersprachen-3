@@ -19,9 +19,17 @@ p {
   border-radius: 5px;
   background-color: white;
   user-select: none;
+  color: black;
 }
 
 .number-spinner:hover {
   border: 2px solid #0004;
   padding: 4px;
+}
+
+.number-spinner.fast {
+  color: tomato;
+}
+.number-spinner.slow {
+  color: green;
 }
