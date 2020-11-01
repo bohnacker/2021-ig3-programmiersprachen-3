@@ -3,7 +3,7 @@
 </script>
 
 <p>
-	Diese Zahl ist veraenderbar:
+	Diese Zahl ist veränderbar:
 	<NumberSpinner value=100 min=0 max=1000 speed=1></NumberSpinner>
 </p>
 
